@@ -36,7 +36,7 @@ Este projeto será baseado no processo padrão Cross-industry para mineração d
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/CRISP-DM_Process_Diagram.png" alt="Kitten" title="A cute kitten" width="430" height="430" />
 </p>
  
-Pode ajudar a evitar que o cientista de dados pare em uma etapa específica e perca tempo com ela. Quando todo o projeto estiver concluído, o cientista de dados pode retornar à etapa inicial e fazer todas as etapas novamente. Portanto, o objetivo principal é seguir círculos conforme a necessidade.
+Pode ajudar a evitar que o cientista de dados pare em uma etapa específica e perca tempo com ela. Quando todo o projeto estiver concluído, o cientista de dados pode retornar à etapa inicial e fazer todas as etapas novamente. Portanto, o objetivo principal é seguir círculos conforme a necessidade. 
  
 # Pipeline
  
@@ -62,6 +62,6 @@ Essa primeira parte do projeto está encarregada de tratar os dados, avaliá-los
 * Parte 4: Criação de novas variáveis.
 * Parte 5: Modelagem do modelo de machine learning, interpretação dos seus resultados e foi visto como cada variável impacta no modelo criado.  
  
-A segunda parte é o deploy do modelo que está em construção.
+**A segunda parte é o deploy do modelo que está em construção.**
  
  
