@@ -62,6 +62,11 @@ Essa primeira parte do projeto está encarregada de tratar os dados, avaliá-los
 * Parte 4: Criação de novas variáveis.
 * Parte 5: Modelagem do modelo de machine learning, interpretação dos seus resultados e foi visto como cada variável impacta no modelo criado.  
  
-**A segunda parte é o deploy do modelo que está em construção.**
+**Todas essas partes se encontram na pasta chamada Notebooks**
+  
+ 
+**A segunda parte do projeto é o deploy do modelo, só que ela está em construção.**
+ 
+ 
  
  
