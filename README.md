@@ -22,7 +22,7 @@ de uma matriz de sensores que mede as  seguintes informações:
  
 # Objetivo.
  
-Logo este trabalho visa criar um modelo de machine learning que estime a concentração de CO de hora em hora. Sendo que a predição será feita da seguinte forma:
+Logo, este trabalho visa criar um modelo de machine learning que estime a concentração de CO de hora em hora. Sendo que a predição será feita da seguinte forma:
  
 * Caso seja desejado prever a concentração de CO às 14 horas, o modelo criado vai utilizar os dados que foram obtidos do sensor às 13 horas para prever o valor de CO. Caso alguém deseja 
 prever a concentração de carbono as 15 horas, ele vai ter que esperar os dados das 14 horas ser adquirido.
